@@ -1,0 +1,16 @@
+{
+  "name": "basicincomefund",
+  "description": "The website for the Basic Income Fund",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
